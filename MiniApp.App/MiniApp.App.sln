@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp.App", "MiniApp.App\MiniApp.App.csproj", "{D431DCBE-599A-45D2-9BD3-EDCED8353C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp.Core", "MiniApp.Core\MiniApp.Core.csproj", "{789982CD-EA22-4533-BC98-534E1F66F9A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D431DCBE-599A-45D2-9BD3-EDCED8353C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D431DCBE-599A-45D2-9BD3-EDCED8353C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D431DCBE-599A-45D2-9BD3-EDCED8353C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D431DCBE-599A-45D2-9BD3-EDCED8353C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789982CD-EA22-4533-BC98-534E1F66F9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789982CD-EA22-4533-BC98-534E1F66F9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789982CD-EA22-4533-BC98-534E1F66F9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789982CD-EA22-4533-BC98-534E1F66F9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19F17C92-AF3C-4B57-A73D-AA8B673F48ED}
+	EndGlobalSection
+EndGlobal
